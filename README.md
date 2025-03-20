@@ -1,4 +1,4 @@
-# 🚆 Sürücüsüz Metro Simülasyonu (Rota Optimizasyonu)
+#  Metro Simülasyonu (Rota Optimizasyonu)
 
 Bu proje, bir metro ağı içinde en hızlı ve en az aktarmalı rotayı bulan bir simülasyon içerir.  
 Breadth-First Search (**BFS**) ve **A* (A-Star) algoritmaları** kullanılarak en iyi rota hesaplanır.
